@@ -1,1 +1,0 @@
-node main.js cookies.txt cookiesresult.txt
