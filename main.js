@@ -1,5 +1,5 @@
 const fs = require("fs");
-const oshost = require("dolph-db");
+const oshost = require("dolphin-database");
 const ncp = require("copy-paste");
 
 if (!process.argv[2] || !process.argv[3]) return console.log("node main.js <cookies.txt> <cookiesresult.txt>");
